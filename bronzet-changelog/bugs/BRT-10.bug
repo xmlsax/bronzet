@@ -1,0 +1,6 @@
+$Number 10
+$Appear "1.0.0-alpha1"
+$Fix "1.0.0-beta3"
+$Solve "Fixed"
+@Description
+Alloyer only works when fuel changes.
