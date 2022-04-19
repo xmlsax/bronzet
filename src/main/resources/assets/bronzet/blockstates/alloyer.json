@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bronzet:block/alloyer"
+    },
+    "facing=east": {
+      "model": "bronzet:block/alloyer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bronzet:block/alloyer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bronzet:block/alloyer",
+      "y": 270
+    }
+  }
+}

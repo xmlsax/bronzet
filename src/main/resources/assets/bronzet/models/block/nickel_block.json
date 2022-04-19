@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bronzet:blocks/nickel_ore_block",
+    "particle": "bronzet:blocks/nickel_ore_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bronzet:tin_ore"
+  },
+  "result": "bronzet:rawtin"
+}

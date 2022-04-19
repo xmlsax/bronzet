@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 10,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "bronzet:rawcarbongem"
+  },
+  "result": "bronzet:carbongem"
+}

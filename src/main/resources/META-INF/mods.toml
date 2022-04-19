@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="bronzet"
+version="1.0.0-beta1"
+displayName="bronze"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://github.com/xmlsax/bronzet"
+logoFile="logo.png"
+authors="xmlsax, MCreator"
+description='''
+A mod which adds some alloys
+'''
+
+[[dependencies.bronzet]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

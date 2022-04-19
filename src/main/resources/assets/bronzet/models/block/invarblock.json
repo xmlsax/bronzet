@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bronzet:blocks/invarblock",
+    "up": "bronzet:blocks/invarblock",
+    "north": "bronzet:blocks/invarblock",
+    "east": "bronzet:blocks/invarblock",
+    "south": "bronzet:blocks/invarblock",
+    "west": "bronzet:blocks/invarblock",
+    "particle": "bronzet:blocks/invarblock"
+  }
+}

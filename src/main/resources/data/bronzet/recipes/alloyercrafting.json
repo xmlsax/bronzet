@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 0",
+    "141",
+    "232"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "bronzet:carbongem"
+    },
+    "3": {
+      "item": "bronzet:tinblock"
+    },
+    "4": {
+      "item": "minecraft:cauldron"
+    },
+  },
+  "result": {
+    "item": "bronzet:alloyer",
+    "count": 1
+  }
+}

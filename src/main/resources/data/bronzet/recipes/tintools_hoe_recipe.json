@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "bronzet:tiningot"
+    },
+    "1": {
+      "item": "bronzet:tiningot"
+    },
+    "2": {
+      "item": "bronzet:tinnugget"
+    },
+    "3": {
+      "item": "bronzet:tinnugget"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bronzet:tin_hoe",
+    "count": 1
+  }
+}

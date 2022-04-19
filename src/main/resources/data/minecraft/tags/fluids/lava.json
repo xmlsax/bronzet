@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bronzet:meltedbronze",
+    "bronzet:flowing_meltedbronze",
+    "bronzet:meltedinvar",
+    "bronzet:flowing_meltedinvar"
+  ]
+}

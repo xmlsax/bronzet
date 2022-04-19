@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bronzet:nickel_block"
+    }
+  ],
+  "result": {
+    "item": "bronzet:nickel_ingot",
+    "count": 9
+  }
+}

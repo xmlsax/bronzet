@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "bronzet:tiningot"
+    },
+    "1": {
+      "item": "bronzet:tiningot"
+    },
+    "2": {
+      "item": "bronzet:tinnugget"
+    },
+    "3": {
+      "item": "bronzet:tiningot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "bronzet:tinnugget"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bronzet:tin_axe",
+    "count": 1
+  }
+}

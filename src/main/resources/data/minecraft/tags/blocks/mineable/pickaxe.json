@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bronzet:tin_ore",
+    "bronzet:tinblock",
+    "bronzet:bronzeblock",
+    "bronzet:nickel_ore",
+    "bronzet:nickel_block"
+  ]
+}

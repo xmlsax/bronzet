@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bronzet:blocks/alloyer_bottom",
+    "up": "bronzet:blocks/alloyer_top",
+    "north": "bronzet:blocks/alloyer_face",
+    "east": "bronzet:blocks/alloyer_side",
+    "south": "bronzet:blocks/alloyer_side",
+    "west": "bronzet:blocks/alloyer_side",
+    "particle": "bronzet:blocks/alloyer_bottom"
+  }
+}
