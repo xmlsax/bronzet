@@ -1,0 +1,6 @@
+$Number 9
+$Appear "1.0.0-alpha3"
+$Fix "1.0.0-beta2"
+$Solve "Fixed"
+@Description
+Nickel ore does not generate in deepslate and tuff.
