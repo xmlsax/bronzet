@@ -1,0 +1,8 @@
+$Number 4
+$Appear "1.0.0-alpha2"
+$Fix "1.0.0-alpha3"
+$Solve "Fixed"
+;Relationship
+    $BAWF 3
+@Description
+Melted bronze floods faster than water.

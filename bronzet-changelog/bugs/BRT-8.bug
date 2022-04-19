@@ -1,0 +1,6 @@
+$Number 8
+$Appear "1.0.0-alpha3"
+$Fix "1.0.0-alpha4"
+$Solve "Fixed"
+@Description
+Nickel ingot and nickel block has incorrect names.
