@@ -1,0 +1,8 @@
+The version numbers of this mod:
+G.M.m-s[b]
+G means generation of the code. The first generation is MCreator.
+M means the major version. Each major version supports one Minecraft version. 0 supports Minecraft 1.18.
+m means the minor version. Each minor version includes several stages.
+s means the stage. It can be alpha, beta, bugfix or final. Each minor version has at least 4 stages: beta and fianl. Alpha versions won't be published until a later beta version appears. Beta must be after alpha (unless there is no alpha), and then it's bugfix and final.
+b means build. Alpha, beta and bugfix always has a build number after it. Final doesn't have a build number. 
+M, m can be 0 but G and b must be 1 or bigger. b is always less than 10. 
