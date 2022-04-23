@@ -1,0 +1,6 @@
+$Number 14
+$Appear "1.0.0-beta9"
+$Fix "1.0.0-final"
+$Solve "Fixed"
+@Description
+Nether zinc ore does not generate.
